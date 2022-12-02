@@ -12,6 +12,7 @@
 > Inserir essas informações em um banco de dados mysql
 ### Arquitetura
 1. Foi usado o cluster proposto em: [https://github.com/Antonio-Borges-Rufino/cluster_base]
+![](https://github.com/Antonio-Borges-Rufino/mineracao_livros/blob/main/Central.png)
 
 ### Parte 1 -> Coleta
 1. A coleta dos dados foi realizada utilizando a biblioteca Beatiful Soap
